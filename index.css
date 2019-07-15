@@ -1,0 +1,26 @@
+.mainpage {
+    background-color: chocolate
+}
+
+.row {
+    height: 100%
+}
+
+div.intro {
+    padding-bottom: 100%;
+    background-color: aliceblue;
+}
+
+div.content {
+    /* padding-bottom: 100%; */
+    background-color: blue;
+}
+div.summary {
+    margin-top: 10%;
+    text-align: center;
+    margin-bottom: auto;
+}
+
+img {
+    height: 30px
+}
